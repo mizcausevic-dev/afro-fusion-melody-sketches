@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T14:19:38.173998+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/af01-blue-wall/af01-blue-wall-combined.mid",
+      "bytes": 5791,
+      "sha256": "b702bd4ca2cfe1a7a3582ed443976ccfaa1e15d6efe9ac11fa4e46c6c8798af6",
+      "errors": []
+    },
+    {
+      "path": "midi/af01-blue-wall/chord_pulse.mid",
+      "bytes": 1304,
+      "sha256": "1fff04c6897cf10cfe9076102593f5b383907b7dc07e58996480f641b7c24f01",
+      "errors": []
+    },
+    {
+      "path": "midi/af01-blue-wall/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "7b29ce6e2f0476895e99f7b795555ce9227a7872508f88e974b1199df5f5cf9a",
+      "errors": []
+    },
+    {
+      "path": "midi/af01-blue-wall/drums.mid",
+      "bytes": 2666,
+      "sha256": "f9e6be7e3ff45eb747c7f963d0a822698cb49a1f8cf92e582cfe49c27a6c094b",
+      "errors": []
+    },
+    {
+      "path": "midi/af01-blue-wall/principal_motif.mid",
+      "bytes": 731,
+      "sha256": "ee605509a5f9152ae3bcc18eac56b413562dceb9a8906aaa25683d4e284f00c5",
+      "errors": []
+    },
+    {
+      "path": "midi/af01-blue-wall/sub_bass.mid",
+      "bytes": 933,
+      "sha256": "f4dfbcf2940b7221a583e76e18d0da8884f2e4144aee107a68c10679da807484",
+      "errors": []
+    },
+    {
+      "path": "midi/af01-blue-wall/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "d5d5989b14ab92afb4d67e3e06161eaae5de4442dae1e1da828327311c0890c2",
+      "errors": []
+    },
+    {
+      "path": "midi/af02-red-clay/af02-red-clay-combined.mid",
+      "bytes": 5791,
+      "sha256": "0b6cdb6206107cb82dc9d4470d6bfb52e40ae074c0f5088b31ef42f0fd53376f",
+      "errors": []
+    },
+    {
+      "path": "midi/af02-red-clay/chord_pulse.mid",
+      "bytes": 1304,
+      "sha256": "04582f886fb7d69e8900a40cf67b26bbeb7e794b294f16b90d8910836353c46f",
+      "errors": []
+    },
+    {
+      "path": "midi/af02-red-clay/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "1873547000b0c36208823397d3976c4c626de5cb4c18e1607080b6317791d028",
+      "errors": []
+    },
+    {
+      "path": "midi/af02-red-clay/drums.mid",
+      "bytes": 2666,
+      "sha256": "f9e6be7e3ff45eb747c7f963d0a822698cb49a1f8cf92e582cfe49c27a6c094b",
+      "errors": []
+    },
+    {
+      "path": "midi/af02-red-clay/principal_motif.mid",
+      "bytes": 731,
+      "sha256": "9b77014d3310b40f617f3b2860c86a5d55def3ec567ea1f851cc0b93b10216c8",
+      "errors": []
+    },
+    {
+      "path": "midi/af02-red-clay/sub_bass.mid",
+      "bytes": 933,
+      "sha256": "c5e790e8168e45d99752d90f196eba59c94dc6375d0fdbcd31afe9aff652f971",
+      "errors": []
+    },
+    {
+      "path": "midi/af02-red-clay/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "032ea4207609acef677a5d24e353ea45061b9008b7efcfdde7358b9c5ce5148f",
+      "errors": []
+    },
+    {
+      "path": "midi/af03-short-reply/af03-short-reply-combined.mid",
+      "bytes": 5771,
+      "sha256": "ee7e07a9cd429930b9120ad82c6a01b43a8cf0c2eabeaa75a4b46c8698bab15f",
+      "errors": []
+    },
+    {
+      "path": "midi/af03-short-reply/chord_pulse.mid",
+      "bytes": 1304,
+      "sha256": "fdc37da7abd0c0afacdd80e126b8e95d2d5caf301b25aefb699dba918e3214ee",
+      "errors": []
+    },
+    {
+      "path": "midi/af03-short-reply/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "137b4656a03d76bffd4f8e8a6d212e79822c18b6a23d510406f000db1d366342",
+      "errors": []
+    },
+    {
+      "path": "midi/af03-short-reply/drums.mid",
+      "bytes": 2666,
+      "sha256": "f9e6be7e3ff45eb747c7f963d0a822698cb49a1f8cf92e582cfe49c27a6c094b",
+      "errors": []
+    },
+    {
+      "path": "midi/af03-short-reply/principal_motif.mid",
+      "bytes": 711,
+      "sha256": "454c9e4ecb5bf8caa3ec74c135ed80c231ac0ca88269e1222d2d02161a5b4397",
+      "errors": []
+    },
+    {
+      "path": "midi/af03-short-reply/sub_bass.mid",
+      "bytes": 933,
+      "sha256": "9d975196e8ec9a0877b4e7ca43b73d5ecd0efa40bf023ddf08004da35a0f0be5",
+      "errors": []
+    },
+    {
+      "path": "midi/af03-short-reply/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "29da81e7ea4344821efa1a9a89566dc779ef3c022d778232c777888c44ffa408",
+      "errors": []
+    },
+    {
+      "path": "midi/af04-sun-path/af04-sun-path-combined.mid",
+      "bytes": 5771,
+      "sha256": "d5f8d5e324777805f3a7e99af7e70c311bfa31f391d1abade08dbdd5b292b0c2",
+      "errors": []
+    },
+    {
+      "path": "midi/af04-sun-path/chord_pulse.mid",
+      "bytes": 1304,
+      "sha256": "e94082b28ac90ac239be97a9beae1b3069bda0485b818403801fc42866fcd636",
+      "errors": []
+    },
+    {
+      "path": "midi/af04-sun-path/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "0ccd2513b248477d215d045779dc9846cc14856389268aeeade1ef08d5582ff5",
+      "errors": []
+    },
+    {
+      "path": "midi/af04-sun-path/drums.mid",
+      "bytes": 2666,
+      "sha256": "f9e6be7e3ff45eb747c7f963d0a822698cb49a1f8cf92e582cfe49c27a6c094b",
+      "errors": []
+    },
+    {
+      "path": "midi/af04-sun-path/principal_motif.mid",
+      "bytes": 711,
+      "sha256": "21504a571a229b37f67e8b80c0b5ec117a8bbb215b6a4b4439e9603e103aec52",
+      "errors": []
+    },
+    {
+      "path": "midi/af04-sun-path/sub_bass.mid",
+      "bytes": 933,
+      "sha256": "9097c2dfae29e3fdb28349e5ffd8163be0b435a9a961183386cf07674e4344a8",
+      "errors": []
+    },
+    {
+      "path": "midi/af04-sun-path/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "7860c68e1732af6409ee970aa4cbb209aa4b48e0c86a4b1f2babe35f8e8bdfc0",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

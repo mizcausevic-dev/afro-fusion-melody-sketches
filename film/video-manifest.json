@@ -1,0 +1,26 @@
+{
+  "title": "Afro-Fusion Melody Sketches",
+  "study": "af01",
+  "bpm": 104,
+  "source_audio": "preview/afro-fusion-melody-sketches-simple-synth-preview.mp3",
+  "source_audio_sha256": "4393ea0d2119e1d5dc8f09e23ad4f1a3ceeaf5b90c686f15e27b0c24ef96a503",
+  "source_midi": "midi/af01-blue-wall/af01-blue-wall-combined.mid",
+  "source_midi_sha256": "b702bd4ca2cfe1a7a3582ed443976ccfaa1e15d6efe9ac11fa4e46c6c8798af6",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "a2bf45a1384648db2a0580f33fa36efc7b996ce5c88c47d4b09a0b4389956f3e",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "6b242e6133bcc4654fc0f01b7b8da0a747bdbc5ff7a8dadbf6d0c67847113c7e",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "bae5eecba404a203d0a781280971d52dafdc5a4857537c4e6dbb1f4bbeef2f2e",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
