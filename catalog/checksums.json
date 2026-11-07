@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/afro-fusion-melody-sketches-midi.zip",
-      "bytes": 28196,
-      "sha256": "76d4a0e04b94b161975f745b05d05acc0e52fa2683903bf9b04d72977990121a"
+      "bytes": 30244,
+      "sha256": "bdf9416a3285a5372faac9aa54439762f32ba3142e34b2c09fb27c5835a8c6aa"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9517,
-      "sha256": "ce5388821e5475d2d1efcfdd342ce1df71a370db819b435dc4ba242a565aebaf"
+      "bytes": 9707,
+      "sha256": "b30ed870f39af32ef56951901c7db645c89453748aeff40065846bd7ce9ee7a1"
     },
     {
       "path": "midi/af01-blue-wall/af01-blue-wall-combined.mid",
@@ -377,6 +377,11 @@
       "sha256": "7860c68e1732af6409ee970aa4cbb209aa4b48e0c86a4b1f2babe35f8e8bdfc0"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/afro-fusion-melody-sketches-simple-synth-preview.mp3",
       "bytes": 1786192,
       "sha256": "4393ea0d2119e1d5dc8f09e23ad4f1a3ceeaf5b90c686f15e27b0c24ef96a503"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3908,
-      "sha256": "c82e034a57dbf1a67719ddcf6fe88c492695b7d4f5e13d92a329bcaf856aa0f4"
+      "bytes": 4023,
+      "sha256": "1a421c6f2ec780ab2bc57b253108ac7c63b0d917f3cfefdd7177a607dc1712d8"
     },
     {
       "path": "social/instagram/caption.txt",
